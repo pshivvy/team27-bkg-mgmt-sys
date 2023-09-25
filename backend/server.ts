@@ -10,5 +10,5 @@ app.get('/', (_req, _res) => {
 });
 
 app.listen(PORT, HOST, () => {
-    console.log(`Running on http://${HOST}:${PORT} on Docker with TS!`);
+    console.log(`Running on http://${HOST}:${PORT} on Docker with TS!!!`);
 });
